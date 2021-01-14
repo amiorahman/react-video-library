@@ -2,6 +2,6 @@
 
 * Fake movie information
 * Feattures (So Far)
-  ** Like/Dislike Movies
+  ## Like/Dislike Movies
   ** Delete Movies from the library
 
